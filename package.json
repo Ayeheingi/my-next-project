@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dayjs": "^1.11.10",
     "microcms-js-sdk": "^3.1.0"
   }
 }
