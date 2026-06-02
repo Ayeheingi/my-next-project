@@ -1,4 +1,9 @@
 {
+  "name": "nextsample3-root",
+  "private": true,
+  "scripts": {
+    "vercel-build": "cd my-next-project && npm ci && npm run build"
+  },
   "dependencies": {
     "dayjs": "^1.11.10",
     "microcms-js-sdk": "^3.1.0"
