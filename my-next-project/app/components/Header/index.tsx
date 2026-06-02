@@ -19,7 +19,7 @@ export default function Header() {
             {/* <nav className={styles.nav}>
                 <ul className={styles.items}>
                     <li>
-                        <Link href="/news">ニュス</Link>
+                        <Link href="/news">ニュース</Link>
                     </li>
                     <li>
                         <Link href="/members">メンバー</Link>
